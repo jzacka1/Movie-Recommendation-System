@@ -1,0 +1,14 @@
+services:
+  backend:
+    build: .
+    container_name: sentiment-backend
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build: ../../Frontend
+    container_name: sentiment-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend

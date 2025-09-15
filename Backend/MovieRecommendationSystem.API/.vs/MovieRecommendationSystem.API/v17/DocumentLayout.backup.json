@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|f:\\source\\repos\\movie recommendation system\\backend\\movierecommendationsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|f:\\source\\repos\\movie recommendation system\\backend\\movierecommendationsystem.api\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|solutionrelative:controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|f:\\source\\repos\\movie recommendation system\\backend\\movierecommendationsystem.api\\services\\recommenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|solutionrelative:services\\recommenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +23,12 @@
       "RelativeMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|solutionrelative:dto\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|f:\\source\\repos\\movie recommendation system\\backend\\movierecommendationsystem.api\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|solutionrelative:controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|f:\\source\\repos\\movie recommendation system\\backend\\movierecommendationsystem.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|f:\\source\\repos\\movie recommendation system\\backend\\movierecommendationsystem.api\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|f:\\source\\repos\\movie recommendation system\\backend\\movierecommendationsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|f:\\source\\repos\\movie recommendation system\\backend\\movierecommendationsystem.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|f:\\source\\repos\\movie recommendation system\\backend\\movierecommendationsystem.api\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|solutionrelative:models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|f:\\source\\repos\\movie recommendation system\\backend\\movierecommendationsystem.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EB2238-B703-46A8-9E47-D7B3851D2379}|MovieRecommendationSystem.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,28 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RecommendationController.cs",
               "DocumentMoniker": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\Controllers\\RecommendationController.cs",
               "RelativeDocumentMoniker": "Controllers\\RecommendationController.cs",
               "ToolTip": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\Controllers\\RecommendationController.cs",
               "RelativeToolTip": "Controllers\\RecommendationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T07:43:57.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MovieDto.cs",
               "DocumentMoniker": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\DTO\\MovieDto.cs",
               "RelativeDocumentMoniker": "DTO\\MovieDto.cs",
@@ -75,25 +71,23 @@
               "RelativeToolTip": "DTO\\MovieDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:40:05.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T07:40:05.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RecommenderService.cs",
               "DocumentMoniker": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\Services\\RecommenderService.cs",
               "RelativeDocumentMoniker": "Services\\RecommenderService.cs",
               "ToolTip": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\Services\\RecommenderService.cs",
               "RelativeToolTip": "Services\\RecommenderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:37:02.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T07:37:02.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -110,8 +104,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T19:21:49.171Z",
@@ -119,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -127,12 +121,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:21:20.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T19:21:20.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Rating.cs",
               "DocumentMoniker": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\Models\\Rating.cs",
               "RelativeDocumentMoniker": "Models\\Rating.cs",
@@ -140,12 +133,11 @@
               "RelativeToolTip": "Models\\Rating.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:20:37.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T19:20:37.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Movie.cs",
               "DocumentMoniker": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Models\\Movie.cs",
@@ -153,21 +145,23 @@
               "RelativeToolTip": "Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:20:01.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T19:20:01.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "F:\\source\\repos\\Movie Recommendation System\\Backend\\MovieRecommendationSystem.API\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:19:32.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T19:19:32.612Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
